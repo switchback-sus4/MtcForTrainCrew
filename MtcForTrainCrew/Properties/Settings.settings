@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MtcForTrainCrew.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="btnB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LightLow</Value>
+    </Setting>
+    <Setting Name="btnC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">EBReset</Value>
+    </Setting>
+    <Setting Name="btnD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">GradientStart</Value>
+    </Setting>
+    <Setting Name="btnUp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ViewDiagram</Value>
+    </Setting>
+    <Setting Name="btnDown" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DriverViewC</Value>
+    </Setting>
+    <Setting Name="btnLeft" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DriverViewL</Value>
+    </Setting>
+    <Setting Name="btnRight" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DriverViewR</Value>
+    </Setting>
+    <Setting Name="btnSelect" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="btnStart" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PauseMenu</Value>
+    </Setting>
+    <Setting Name="btnAts" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Buzzer</Value>
+    </Setting>
+    <Setting Name="btnAshallow" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HornEle</Value>
+    </Setting>
+    <Setting Name="btnAdeep" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HornAir</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
